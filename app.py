@@ -5,7 +5,7 @@ st.title("챗봇")  # 제목 수정
 
 # Set OpenAI API key from Streamlit secrets
 #client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 
 # Set a default model
